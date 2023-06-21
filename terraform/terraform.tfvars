@@ -1,2 +1,2 @@
-project     = "tastylog"
+project     = "terraform"
 environment = "dev"
