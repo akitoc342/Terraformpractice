@@ -13,4 +13,4 @@
 - terraform.tfvars・・環境変数の設定  
 
 ## AWS構成図  
-![Terraformリソース作成構成図](Terraform.png)
+![Terraformリソース作成構成図](terraform.png)
